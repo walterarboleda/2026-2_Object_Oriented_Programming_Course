@@ -4,7 +4,7 @@
 
 # 2026-2_Object_Oriented_Programming_Course
 
-# Semester 2026-2
+# Semester 2026-2S
 
 # Teacher: Walter H. Arboleda
 
