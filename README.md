@@ -51,8 +51,12 @@ Activity 6: 20% Individual Thursday, 10th December
 
 # Week 1
 
+## Thursday: 
+
+
+# Week 2
+
 ## Tuesday: 
 
 ## Thursday: 
-
 
