@@ -2,7 +2,7 @@
 
 ![universidad-nacional-colombia-logo](https://github.com/user-attachments/assets/f5f1ce3d-eda8-42a2-8f97-d5b126f772cd)
 
-# 2026-2_Object_Oriented_Programming_Course
+# 2026-2S_Object_Oriented_Programming_Course
 
 # Semester 2026-2S
 
