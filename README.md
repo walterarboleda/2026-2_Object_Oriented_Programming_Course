@@ -18,7 +18,7 @@
 
 
 # Libro de Logica de Programacion
-[Libro de Ejercicios de Programacion OO y UML.pdf](https://github.com/user-attachments/files/31523838/Libro.de.Ejercicios.de.Programacion.OO.y.UML.pdf)
+[Libro Logica de Programacion_EfrainOviedoRegino.pdf](https://github.com/user-attachments/files/31524865/Libro.Logica.de.Programacion_EfrainOviedoRegino.pdf)
 
 
 # Libro Curso Rapido de Java
