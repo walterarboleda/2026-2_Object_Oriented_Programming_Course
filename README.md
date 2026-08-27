@@ -49,12 +49,12 @@ Activity 5: 20% Individual Thursday, 26th November
 Activity 6: 20% Individual Thursday, 10th December
 
 
-# Week 1
+# Week 1 Videos
 
 ## Thursday: 
 
 
-# Week 2
+# Week 2 Videos
 
 ## Tuesday: 
 
