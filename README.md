@@ -25,10 +25,29 @@
 [Libro Curso rapido de Java.pdf](https://github.com/user-attachments/files/31523864/Libro.Curso.rapido.de.Java.pdf)
 
 
+# Book Learning Python
+[Learning_Python.pdf](https://github.com/user-attachments/files/31523967/Learning_Python.pdf)
+
+
+# Learning Activities and Dates
+
+Activity 1: 10% Individual  Thursday, 17th September
+
+Activity 2: 20% Individual, Thursday, 8th October
+
+Activity 3: 10% Individual  Thursday, 22nd October
+
+Actividad 4: 20% Individual Thursday, 12th November
+
+Actividad 5: 20% Individual Thursday, 26th November
+
+Actividad 6: 20% Individual Thursday, 10th December
 
 
 # Week 1
+
 ## Tuesday: 
+
 ## Thursday: 
 
 
