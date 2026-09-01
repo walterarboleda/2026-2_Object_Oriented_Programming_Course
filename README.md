@@ -49,6 +49,12 @@ Activity 5: 20% Individual Thursday, 26th November
 Activity 6: 20% Individual Thursday, 10th December
 
 
+# Exercises Activity 1: 10% Individual  Thursday, 17th September
+[Ejercicios Actividad 1-2026-2.pdf](https://github.com/user-attachments/files/31703179/Ejercicios.Actividad.1-2026-2.pdf)
+
+
+
+
 # Week 1 Videos
 
 ## Thursday: https://drive.google.com/file/d/1oFOHn2GV6WgqZ5SXplYlqzNsmS2A2kdd/view?usp=sharing
