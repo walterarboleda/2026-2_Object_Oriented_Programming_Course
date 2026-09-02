@@ -30,6 +30,10 @@ https://colab.research.google.com/drive/1TadRKLKP-NFZCvBXfoedytYQ9oeOpmY2?usp=sh
 [Libro Curso rapido de Java.pdf](https://github.com/user-attachments/files/31523864/Libro.Curso.rapido.de.Java.pdf)
 
 
+# What are Classes and Objects in Python?
+https://www.w3schools.com/python/python_oop.asp
+
+
 # Book Learning Python
 [Learning_Python.pdf](https://github.com/user-attachments/files/31523967/Learning_Python.pdf)
 
