@@ -82,4 +82,7 @@ Activity 6: 20% Individual Thursday, 10th December
 
 ## Tuesday: https://drive.google.com/file/d/1Sz0JBGYQG0xQNMRqSXCAkIguTsJJdd0N/view?usp=sharing
 
+## Thursday: https://drive.google.com/file/d/1XSDr-oeiyqtMaSe7Xjg2biatvQeMsYG6/view?usp=sharing
+
+
 
