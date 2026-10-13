@@ -22,10 +22,6 @@ https://colab.research.google.com/drive/1TadRKLKP-NFZCvBXfoedytYQ9oeOpmY2?usp=sh
 [Libro de Ejercicios de Programacion OO y UML.pdf](https://github.com/user-attachments/files/31523789/Libro.de.Ejercicios.de.Programacion.OO.y.UML.pdf)
 
 
-# Libro de Logica de Programacion
-[Libro Logica de Programacion_EfrainOviedoRegino.pdf](https://github.com/user-attachments/files/31524865/Libro.Logica.de.Programacion_EfrainOviedoRegino.pdf)
-
-
 # Libro Curso Rapido de Java
 [Libro Curso rapido de Java.pdf](https://github.com/user-attachments/files/31523864/Libro.Curso.rapido.de.Java.pdf)
 
