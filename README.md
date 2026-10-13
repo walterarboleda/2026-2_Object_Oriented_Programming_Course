@@ -110,7 +110,15 @@ Activity 6: 20% Individual Thursday, 10th December
 
 ## Tuesday:https://drive.google.com/file/d/1GqaEHc9oR7WAnV3e6fhatLMqTGOdZWo-/view?usp=sharing
 
+## Thursday: Student Assembly
+
+
+# Week 8 Videos
+
+## Tuesday:
+
 ## Thursday:
+
 
 
 
