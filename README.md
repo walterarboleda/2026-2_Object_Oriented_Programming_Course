@@ -111,9 +111,9 @@ Activity 6: 20% Individual Thursday, 10th December
 
 # Week 8 Videos
 
-## Tuesday:
+## Tuesday:https://drive.google.com/file/d/1mbK6YBML7c1xAi3VY7KxV9ieAcNx5Xws/view?usp=sharing
 
-## Thursday:
+## Thursday: Multistamentary Assembly
 
 
 
