@@ -125,6 +125,10 @@ Activity 6: 20% Individual Thursday, 10th December
 ## How to Add an Image in Tkinter
 https://www.geeksforgeeks.org/python/how-to-add-an-image-in-tkinter/
 
+## How to Add an Image in a JFrame
+https://www.youtube.com/watch?v=Rs75iYmbSrI
+
+
 
 
 
