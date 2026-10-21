@@ -116,6 +116,19 @@ Activity 6: 20% Individual Thursday, 10th December
 ## Thursday: Multistamentary Assembly
 
 
+# Week 9 Videos
+
+## Tuesday:https://drive.google.com/file/d/1ASohqBOnQ42rZydiME8lxVR6_fRR1gHA/view?usp=sharing
+
+## Thursday:
+
+## How to Add an Image in Tkinter
+https://www.geeksforgeeks.org/python/how-to-add-an-image-in-tkinter/
+
+
+
+
+
 
 
 
