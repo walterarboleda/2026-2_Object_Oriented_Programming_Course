@@ -133,6 +133,13 @@ https://www.geeksforgeeks.org/python/how-to-add-an-image-in-tkinter/
 ## How to Add an Image in a JFrame
 https://www.youtube.com/watch?v=Rs75iYmbSrI
 
+# Week 10 Videos
+
+## Tuesday:https://drive.google.com/file/d/1Q4PrfFWbzAirZJCozLfVHWhmJ6y2i2xN/view?usp=sharing
+
+## Exercises Activity 4: 20% Individual Thursday, 12th November
+
+[Ejercicios Actividad 4_2026-2S.pdf](https://github.com/user-attachments/files/34330806/Ejercicios.Actividad.4_2026-2S.pdf)
 
 
 
