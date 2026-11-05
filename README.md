@@ -141,6 +141,7 @@ https://www.youtube.com/watch?v=Rs75iYmbSrI
 
 [Ejercicios Actividad 4_2026-2S.pdf](https://github.com/user-attachments/files/34330806/Ejercicios.Actividad.4_2026-2S.pdf)
 
+## Thursday: https://drive.google.com/file/d/1SetGPBlY_p9HnO4A2gxRq8COREvbJ4v-/view?usp=sharing
 
 
 
