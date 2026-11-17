@@ -67,6 +67,11 @@ Activity 6: 20% Individual Thursday, 10th December
 [Ejercicios Actividad 4_2026-2S.pdf](https://github.com/user-attachments/files/34330806/Ejercicios.Actividad.4_2026-2S.pdf)
 
 
+# Exercises Activity 5: 20% Individual Thursday, 26th November
+
+[Ejercicios Actividad 5_2026-2.pdf](https://github.com/user-attachments/files/34983669/Ejercicios.Actividad.5_2026-2.pdf)
+
+
 # Week 1 Videos
 
 ## Thursday: https://drive.google.com/file/d/1oFOHn2GV6WgqZ5SXplYlqzNsmS2A2kdd/view?usp=sharing
@@ -141,11 +146,18 @@ https://www.youtube.com/watch?v=Rs75iYmbSrI
 
 [Ejercicios Actividad 4_2026-2S.pdf](https://github.com/user-attachments/files/34330806/Ejercicios.Actividad.4_2026-2S.pdf)
 
-## Thursday: https://drive.google.com/file/d/1SetGPBlY_p9HnO4A2gxRq8COREvbJ4v-/view?usp=sharing
+
+# Week 11 Videos
+## Tuesday: https://drive.google.com/file/d/1SetGPBlY_p9HnO4A2gxRq8COREvbJ4v-/view?usp=sharing
 
 
+## Thursday: https://drive.google.com/file/d/16oSblK6u3hiWUjziCDtacOJH_wVmKIaq/view?usp=sharing
 
+# Week 12 Videos
 
+# Exercises Activity 5: 20% Individual Thursday, 26th November
+
+[Ejercicios Actividad 5_2026-2.pdf](https://github.com/user-attachments/files/34983669/Ejercicios.Actividad.5_2026-2.pdf)
 
 
 
