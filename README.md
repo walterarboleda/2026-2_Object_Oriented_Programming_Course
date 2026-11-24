@@ -72,6 +72,11 @@ Activity 6: 20% Individual Thursday, 10th December
 [Ejercicios Actividad 5_2026-2.pdf](https://github.com/user-attachments/files/34983669/Ejercicios.Actividad.5_2026-2.pdf)
 
 
+# Exercises Activity 6: 20% Individual Thursday, 10th December
+[Programación Orientada a Objetos Actividad 6_2026-2S.pdf](https://github.com/user-attachments/files/35358709/Programacion.Orientada.a.Objetos.Actividad.6_2026-2S.pdf)
+
+
+
 # Week 1 Videos
 
 ## Thursday: https://drive.google.com/file/d/1oFOHn2GV6WgqZ5SXplYlqzNsmS2A2kdd/view?usp=sharing
@@ -158,6 +163,11 @@ https://www.youtube.com/watch?v=Rs75iYmbSrI
 # Exercises Activity 5: 20% Individual Thursday, 26th November
 
 [Ejercicios Actividad 5_2026-2.pdf](https://github.com/user-attachments/files/34983669/Ejercicios.Actividad.5_2026-2.pdf)
+
+
+# Exercises Activity 6: 20% Individual Thursday, 10th December
+
+[Programación Orientada a Objetos Actividad 6_2026-2S.pdf](https://github.com/user-attachments/files/35358709/Programacion.Orientada.a.Objetos.Actividad.6_2026-2S.pdf)
 
 
 
